@@ -1,2 +1,3 @@
 This is Software Engineering class
 # This is a new update for Experiment 1
+Expected output: The program should print "Hello, World!"
